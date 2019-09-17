@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVI</string>
+    <string name="contacts_toolbar_title">Contacts</string>
+    <string name="contacts_toolbar_title_loading">Loading...</string>
+    <string name="contacts_toolbar_title_error">Contacts: Error :(</string>
+    <string name="search">Search</string>
+    <string name="error_server">Something went wrong with server</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_contacts">No contacts were found</string>
+</resources>
